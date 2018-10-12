@@ -1,16 +1,9 @@
-div {
+.tablet {
     background-color: lightgrey;
-    width: 700px;
+    width: 760px;
+    height: 300px;
     border: 25px solid green;
     padding: 25px;
     margin: 25px;
-   
-}
-p2 {
-    background-color: lightgrey;
-    width: 700px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-   
+    margin-left: 250px;
 }
