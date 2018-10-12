@@ -6,7 +6,7 @@
     border: 15px solid green;
     padding: 15px;
     margin: 15px;
-    margin-left: 150px;
+    margin-left: 200px;
 }
 p{
 width: 80px;
@@ -18,7 +18,7 @@ margin-bottom:10px;
 #p1{
 	background-color: skyblue;
 	position: relative;
-	top: 1px;
+	top: 50px;
 	left: 680px;
 	text-align: center;
 	margin-top: 5px;
