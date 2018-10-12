@@ -1,0 +1,14 @@
+<style>
+div{
+	background-color: yellow;
+}
+p{
+	width: 70;
+	height: 60;
+	border: 2px;
+}
+#p1{
+	background-color: blue;
+	float: left;
+}
+</style>
