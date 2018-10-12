@@ -1,4 +1,18 @@
-div {
+p1 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+p2 {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+p3 {
     background-color: lightgrey;
     width: 300px;
     border: 25px solid green;
